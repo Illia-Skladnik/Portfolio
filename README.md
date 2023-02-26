@@ -21,6 +21,6 @@
 
 [GitHub Code Backend](https://github.com/fe-sep22-hope-it-works/backend-phone-catalog-app#readme) 
 
-# Express User Operations Server with MongoDB: 
+# Express Server with MongoDB: 
 
 [User Operations Server](https://github.com/Illia-Skladnik/User-Operations-Server#readme) 
