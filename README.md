@@ -1,5 +1,5 @@
 
-Landing page for earphones: 
+# Landing page for earphones: 
 
 [BOSE landing page](https://illia-skladnik.github.io/BOSE-landing/) 
 
