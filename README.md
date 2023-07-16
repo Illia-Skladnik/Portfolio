@@ -1,4 +1,4 @@
-
+PET:
 # Landing page for earphones: 
 
 [BOSE landing page](https://illia-skladnik.github.io/BOSE-landing/) 
@@ -24,3 +24,13 @@
 # Express Server with MongoDB: 
 
 [User Operations Server](https://github.com/Illia-Skladnik/User-Operations-Server#readme) 
+
+
+Commercial:
+Zalinos
+Kleis
+Nova
+Dnipro-delivery
+Rapid Fire Slots
+Centrmed
+SpectorAirfield
